@@ -1,4 +1,9 @@
 # leetcode
 my experience on leetcode
 ------------------------------------
-reverse single linklist 0603
+## 0603
+  1. Reverse single linklist 
+  2. Reverse Vowels of a String
+  3. Remove Duplicates from Sorted List
+## Before
+  1. 
